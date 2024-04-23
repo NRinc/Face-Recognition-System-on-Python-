@@ -60,7 +60,7 @@ def compare_faces(img1_path, img2_path):
 def main():
     # face_rec()
     # print(extracting_faces("img/AM2.jpg"))
-    compare_faces("img/ks.jpg","img/km.jpg")
+    compare_faces("img/Tesla.jpg","img/Tesla_comp.jpg")
 
 
 if __name__ == '__main__':

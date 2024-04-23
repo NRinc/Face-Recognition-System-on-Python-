@@ -12,7 +12,7 @@ counter = 0
 face_match = False
 
 # List of reference images
-reference_images = ["reference.jpg", "Mama.jpg", "as1.jpg"]
+reference_images = ["Elon.jpg", "Jobs.jpg", "Tesla.jpg"]
 
 # Load face encodings for each reference image
 reference_encodings = [face_recognition.face_encodings(face_recognition.load_image_file(ref))[0] for ref in reference_images]

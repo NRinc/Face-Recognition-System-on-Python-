@@ -10,4 +10,7 @@ create some folder where you will save the project
 open teminal and write : virtualenv venv venv\scripts\activate
 after making virtual environment just use pip to download libraries
 
-pip install face_recognition pip install Pillow pip install opencv-python now every code should work
+pip install face_recognition 
+pip install Pillow 
+pip install opencv-python 
+now every code should work
